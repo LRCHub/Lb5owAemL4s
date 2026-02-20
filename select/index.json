@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "夕立のりぼん",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-02-20T04:24:40.353819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "鹿乃",
+      "has_synced": false,
+      "path": "select/01_夕立のりぼん_鹿乃.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "Mikito-P feat. MAYU",
+      "has_synced": false,
+      "path": "select/02_夕立のりぼん_Mikito-P_feat._MAYU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "Kashitaro Ito",
+      "has_synced": true,
+      "path": "select/03_夕立のりぼん_Kashitaro_Ito.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "__(アンダーバー)",
+      "has_synced": true,
+      "path": "select/04_夕立のりぼん_(アンダーバー).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/05_夕立のりぼん_VA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夕立のりぼん",
+      "artist": "しぐれうい",
+      "has_synced": true,
+      "path": "select/06_夕立のりぼん_しぐれうい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕立のりぼん (Cover)",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_夕立のりぼん_(Cover)_しぐれうい.txt"
+    }
+  ]
+}
